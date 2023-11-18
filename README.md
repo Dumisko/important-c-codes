@@ -1,2 +1,2 @@
 # important-c-codes
-<p style="color: blue">Some important c++ algorithms.</p>
+<p>Some important c++ algorithms.</p>
